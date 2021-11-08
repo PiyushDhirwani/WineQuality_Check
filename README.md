@@ -1,2 +1,2 @@
-# machine-learning-model
-wine-quality-prediction
+# Machine Learning Model
+Wine_Quality_Prediction
